@@ -5,121 +5,115 @@
 ### Description
 
 ### Title
-tour.name = Hotel Tulip in - 7lagoas
+tour.name = Hotel Tulip Inn - 7lagoas
 
 ## Skin
 
 ### Button
-Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = SALAS DE REUNIÕES >
-Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = SALAS DE REUNIÕES >
-Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
-Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
-Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = APARTAMENTOS >
-Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = APARTAMENTOS >
-Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = RECEPÇÃO
-Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = RECEPÇÃO
-Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = RECEPÇÃO
-Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = RECEPÇÃO
-Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = RESTAURANTE
-Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = RESTAURANTE
-Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = RESTAURANTE
-Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = RESTAURANTE
-Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Apto. Standard
-Button_15A10DDC_31FA_0014_4185_021C898E177D_mobile.label = Apto. Standard
-Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Apto. Superior
-Button_15A13DDC_31FA_0014_41C5_41AE80876834_mobile.label = Apto. Superior
-Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = BACK
-Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1_mobile.label = VOLTAR
-Button_168CA310_3106_01EC_41C7_72CE0522951A.label = BACK
-Button_168CA310_3106_01EC_41C7_72CE0522951A_mobile.label = VOLTAR
-Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Jequitibá
-Button_168D5310_3106_01EC_41B5_96D9387401B8_mobile.label = Jequitibá
-Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Paulino
-Button_168D6310_3106_01EC_41B8_A0B6BE627547_mobile.label = Paulino
-Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = BACK
-Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = VOLTAR
-Button_17EAB2B7_3106_0014_41A7_209417AD3E9A.label = Cachoeira da Prata
-Button_17EAB2B7_3106_0014_41A7_209417AD3E9A_mobile.label = Cachoeira da Prata
-Button_17EAD2B7_3106_0014_41C0_0B5453B4841D.label = Araçaí
-Button_17EAD2B7_3106_0014_41C0_0B5453B4841D_mobile.label = Araçaí
-Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = ESPAÇO DE EVENTOS >
-Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = ESPAÇO DE EVENTOS >
-Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = BAR
-Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.pressedLabel = BAR
-Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = BAR
-Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.pressedLabel = BAR
-Button_DEDFAF60_C325_7319_41D0_88EB6C48A452.label = GARAGEM
-Button_DEDFAF60_C325_7319_41D0_88EB6C48A452.pressedLabel = GARAGEM
-Button_DEDFAF60_C325_7319_41D0_88EB6C48A452_mobile.label = GARAGEM
-Button_DEDFAF60_C325_7319_41D0_88EB6C48A452_mobile.pressedLabel = GARAGEM
-Button_E33D8668_C32D_95E9_41B2_EA186F1DE9E9.label = ACADEMIA
-Button_E33D8668_C32D_95E9_41B2_EA186F1DE9E9.pressedLabel = ACADEMIA
-Button_E33D8668_C32D_95E9_41B2_EA186F1DE9E9_mobile.label = ACADEMIA
-Button_E33D8668_C32D_95E9_41B2_EA186F1DE9E9_mobile.pressedLabel = ACADEMIA
-Button_E5F6B767_C36D_93E7_41E2_B5030D958AC9.label = Faça sua reserva
-Button_E5F6B767_C36D_93E7_41E2_B5030D958AC9_mobile.label = Faça sua reserva
-Button_EB7CD1B0_C366_EF7A_41D3_13B2539F6630.label = Localização
-Button_EB7CD1B0_C366_EF7A_41D3_13B2539F6630_mobile.label = Localização
+Button_A3D805DB_B9FF_9F66_41D5_86269C99D66B.label = BACK
+Button_A3D805DB_B9FF_9F66_41D5_86269C99D66B_mobile.label = BACK
+Button_A3D825D0_B9FF_9F62_41E1_8BCB4AF051AD.label = BACK
+Button_A3D825D0_B9FF_9F62_41E1_8BCB4AF051AD_mobile.label = BACK
+Button_A3D8F5DD_B9FF_9F62_41DC_860C193044B6.label = Cachoeira da Prata
+Button_A3D8F5DD_B9FF_9F62_41DC_860C193044B6_mobile.label = Cachoeira da Prata
+Button_A3D935CB_B9FF_9F66_41BB_70C09039E8ED.label = SALAS DE REUNIÕES >
+Button_A3D935CB_B9FF_9F66_41BB_70C09039E8ED_mobile.label = SALAS DE REUNIÕES >
+Button_A3D985D2_B9FF_9F66_41DC_A27A36919185.label = Apto. Superior
+Button_A3D985D2_B9FF_9F66_41DC_A27A36919185_mobile.label = Apto. Superior
+Button_A3D995D2_B9FF_9F66_41E5_D33388F5105D.label = Apto. Standart
+Button_A3D995D2_B9FF_9F66_41E5_D33388F5105D_mobile.label = Apto. Standart
+Button_A3D9B5CF_B9FF_9F7E_41E0_12E1D4CA3BF8.label = Paulino
+Button_A3D9B5CF_B9FF_9F7E_41E0_12E1D4CA3BF8_mobile.label = Paulino
+Button_A3D9C5D0_B9FF_9F62_41BE_7D766A4812F7.label = Jequitibá
+Button_A3D9C5D0_B9FF_9F62_41BE_7D766A4812F7_mobile.label = Jequitibá
+Button_A3D9E5D0_B9FF_9F62_41DA_085CC233133D.label = Garden
+Button_A3D9E5D0_B9FF_9F62_41DA_085CC233133D_mobile.label = Garden
+Button_A3D9F5D0_B9FF_9F62_41D1_CBD9BC28E032.label = Lorem Ipsum
+Button_A3D9F5D0_B9FF_9F62_41D1_CBD9BC28E032_mobile.label = Lorem Ipsum
+Button_A3DA45CA_B9FF_9F67_41E0_D42D49975BB7.label = RECEPÇÃO
+Button_A3DA45CA_B9FF_9F67_41E0_D42D49975BB7_mobile.label = RECEPÇÃO
+Button_A3DA85CA_B9FF_9F67_41B2_B3AD91EC48D6.label = APARTAMENTOS  >
+Button_A3DA85CA_B9FF_9F67_41B2_B3AD91EC48D6_mobile.label = APARTAMENTOS  >
+Button_A3DAA5CA_B9FF_9F67_41D5_56F1631372AB.label = RESTAURANTE
+Button_A3DAA5CA_B9FF_9F67_41D5_56F1631372AB.pressedLabel = Inserdt Text
+Button_A3DAA5CA_B9FF_9F67_41D5_56F1631372AB_mobile.label = RESTAURANTE
+Button_A3DAA5CA_B9FF_9F67_41D5_56F1631372AB_mobile.pressedLabel = Inserdt Text
+Button_A3DAC5CB_B9FF_9F66_41DE_9C080D912D0F.label = ACADEMIA
+Button_A3DAC5CB_B9FF_9F66_41DE_9C080D912D0F_mobile.label = ACADEMIA
+Button_A3DAF5CB_B9FF_9F66_41D2_030123E4260F.label = BAR
+Button_A3DAF5CB_B9FF_9F66_41D2_030123E4260F_mobile.label = BAR
+Button_A3DAF5CE_B9FF_9F7E_41E1_601B0744F923.label = BACK
+Button_A3DAF5CE_B9FF_9F7E_41E1_601B0744F923_mobile.label = BACK
+Button_A3DF15DD_B9FF_9F62_41E3_681BC9E00B21.label = Araçaí
+Button_A3DF15DD_B9FF_9F62_41E3_681BC9E00B21_mobile.label = Araçaí
+Button_A764D689_B93A_9DE5_41E7_20C8AD06B839.label = GARAGEM
+Button_A764D689_B93A_9DE5_41E7_20C8AD06B839_mobile.label = GARAGEM
+Button_A7761605_B93B_9CE2_41DD_8AC0437B488E.label = ESPAÇO DE EVENTOS >
+Button_A7761605_B93B_9CE2_41DD_8AC0437B488E_mobile.label = ESPAÇO DE EVENTOS >
 
-### Multiline Text
-HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.059999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.580000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.580000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.08vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5000000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
-HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.059999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.580000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.580000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.58vmin;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.08vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3100000000000036vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3100000000000036vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000036vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000036vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000036vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000036vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3100000000000036vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.080000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5000000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
-HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
-HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+### Label
+Label_9F1C080E_B91E_94FE_41D5_5A091303218F.text = Localização
+Label_9F1C080E_B91E_94FE_41D5_5A091303218F_mobile.text = Localização
+Label_A6A026B6_B90A_9D2E_41D0_C23CD41EBDF5.text = Faça sua reserva
+Label_A6A026B6_B90A_9D2E_41D0_C23CD41EBDF5_mobile.text = Faça sua reserva
 
 ## Media
 
 ### Title
-panorama_A89A1386_A45F_B253_41C5_606CDD71A093.label = IMG_20220916_145959_00_merged-denoise-denoise
-panorama_A97F13FC_A450_D1B0_41E0_C205C4BB806C.label = Fachada HDR-denoise-denoise
-panorama_AFE71002_A450_AE53_41D9_043C4D4AE7D6.label = IMG_20220916_163010_00_merged-denoise-denoise
-panorama_AFE72055_A450_EEF0_41B0_F551E9342C6A.label = IMG_20220916_163509_00_merged-denoise-denoise
-panorama_AFE72548_A450_F6DF_41D2_7A771EEC3714.label = IMG_20220916_163317_00_merged-denoise-denoise
-panorama_AFF8142A_A450_B653_41AB_5802B662060B.label = IMG_20220916_160648_00_merged-denoise-denoise
-panorama_AFF82429_A450_D651_41E1_98E442AB75A6.label = IMG_20220916_155519_00_merged-denoise-denoise
-panorama_AFF835A5_A450_D651_41E2_2FE5FD232C64.label = IMG_20220916_155948_00_merged-denoise-denoise
-panorama_AFF85976_A453_5EB3_4181_271238E72A6F.label = IMG_20220916_155311_00_merged-denoise-denoise
-panorama_AFF85B47_A450_F2D1_41B3_A87F495C06E8.label = IMG_20220916_155842_00_merged-denoise-denoise
-panorama_AFF892F8_A453_73BF_41E1_2843C9BD80C9.label = IMG_20220916_154843_00_merged-denoise-denoise
-panorama_AFF89CE8_A453_B7DF_41E3_51D86A6D66BB.label = IMG_20220916_154643_00_merged-denoise-denoise
-panorama_AFF8BDF3_A453_71B1_41DA_B90788C13FD7.label = IMG_20220916_155222_00_merged-denoise-denoise
-panorama_AFF8CA7E_A450_D2B3_41D1_BA8625A3E412.label = IMG_20220916_163219_00_merged-denoise-denoise
-panorama_AFF8D5C3_A450_B1D1_41BF_97D48F5677B1.label = IMG_20220916_162904_00_merged-denoise-denoise
-panorama_AFF8E802_A453_5E53_4197_D3C6103DA917.label = IMG_20220916_154721_00_merged-denoise-denoise
-panorama_AFF92158_A450_AEFF_41DF_59DB664232DD.label = IMG_20220916_145311_00_merged-denoise-denoise
-panorama_AFF92AF9_A451_53B1_41E4_14372E47242B.label = IMG_20220916_162701_00_merged-denoise-denoise
-panorama_AFF930E7_A453_AFD1_41D4_769AE83EA491.label = IMG_20220916_154453_00_merged-denoise-denoise
-panorama_AFF9452F_A453_D651_41DF_BBAF169C5B00.label = IMG_20220916_154327_00_merged-denoise-denoise
-panorama_AFF969E3_A453_F1D1_41C5_CE408E7F47C1.label = IMG_20220916_154247_00_merged-denoise-denoise
-panorama_AFF96BA6_A450_D253_41E1_EF3ED0D9DEA3.label = IMG_20220916_145016_00_merged-denoise-denoise
-panorama_AFF9B06C_A450_EED7_41CF_5E7F78FD4ED8.label = IMG_20220916_144930_00_merged-denoise-denoise
-panorama_AFF9CC7A_A453_56B3_419D_11279C48E0E5.label = IMG_20220916_145504_00_merged-denoise-denoise
-panorama_AFF9D2C8_A453_53DF_41E2_22BB18FABF4A.label = IMG_20220916_152221_00_merged-denoise-denoise
-panorama_AFF9ED57_A453_56F1_41D6_F8A17EADD7F1.label = IMG_20220916_152608_00_merged-denoise-denoise
-panorama_AFFB86C7_A450_B3D0_41E4_3C0FE0ECF444.label = IMG_20220916_155413_00_merged-denoise-denoise
-panorama_AFFBDF93_A450_D271_41BC_C446887CEF09.label = IMG_20220916_155631_00_merged-denoise-denoise
-panorama_B0B474E0_AE5A_19AC_41BF_D5B184CB9614.label = IMG_20220916_153021_00_merged-denoise-denoise
-panorama_B8326864_ADCE_08B4_41CC_1D5D795B75E2.label = IMG_20220916_162547_00_merged-denoise-denoise
-panorama_B838994A_ADCE_08FF_41BC_5C4C97B6F3D2.label = IMG_20220916_162155_00_merged-denoise-denoise
-panorama_B838B0AC_ADCE_39B4_41A6_26665ED8A300.label = IMG_20220916_161900_00_merged-denoise-denoise
-panorama_B838ECEA_ADCE_09BF_41C6_B9575EE74C29.label = IMG_20220916_162102_00_merged-denoise-denoise
-panorama_B83F36C2_ADCE_F9EC_41D8_9399B489D6A5.label = IMG_20220916_161628_00_merged-denoise-denoise
-panorama_B83F7343_ADCE_18EC_41D8_B5CF1B4495F0.label = IMG_20220916_161739_00_merged-denoise-denoise
-panorama_B83FA5EF_ADCE_1BB4_41DE_CE7ACD79E887.label = IMG_20220916_161205_00_merged-denoise-denoise
-panorama_B83FAA87_ADCE_0874_41CE_1C7A9DE7A062.label = IMG_20220916_161601_00_merged-denoise-denoise
-panorama_B83FB1F9_ADCE_3B9D_41E4_49F2156F36D1.label = IMG_20220916_161239_00_merged-denoise-denoise
-panorama_B83FBC15_ADCE_0895_418A_417789C4F984.label = IMG_20220916_160937_00_merged-denoise-denoise
-panorama_B83FFE79_ADCE_089C_41B2_82756425F324.label = IMG_20220916_161419_00_merged-denoise-denoise
-panorama_B9ADAB96_ADCA_0F97_41B3_485DCB712992.label = IMG_20220916_162513_00_merged-denoise-denoise
+panorama_A8039D9A_B90A_6FE6_41E3_75F123831A7C.label = m2
+panorama_A803A29B_B90A_75E6_41E2_FD184D620458.label = m1
+panorama_A80546E3_B909_9D26_41D5_50626AE722CA.label = acd2
+panorama_AB04E26E_B909_B53E_41E1_3DF8844BD802.label = acd1
+panorama_ABDF9E8B_B97B_EDE6_41CF_69FC9E52FBAE.label = q2.2
+panorama_AD92662A_B97A_7D26_41A5_89289609FA6A.label = q1.1
+panorama_B2609E98_B824_69DD_41C5_DC7E68FC55F6.label = IMG_20220916_144930_00_merged-denoise-denoise
+panorama_B262A322_B824_98ED_41D5_B30B559077CA.label = IMG_20231107_091257_00_merged-denoise-denoise
+panorama_B262A864_B824_A974_41AA_479731A04C69.label = IMG_20231107_082740_00_merged-denoise-denoise
+panorama_B262ED2E_B824_E8F5_41DD_2593A177DFDA.label = remover
+panorama_B26472F0_B824_996D_41A7_4A4668E9553D.label = IMG_20220916_161205_00_merged-denoise-denoise
+panorama_B264841D_B825_B8D7_41D0_F5C8251DE03E.label = IMG_20220916_152608_00_merged-denoise-denoise
+panorama_B26492AB_B825_99F3_41DB_369E6F9E3679.label = IMG_20220916_145504_00_merged-denoise-denoise
+panorama_B264CA68_B827_A97D_41E4_2FBE0FA44622.label = IMG_20220916_163219_00_merged-denoise-denoise
+panorama_B264CA80_B825_A9AC_41DF_22F73EE8E368.label = IMG_20220916_145016_00_merged-denoise-denoise
+panorama_B264D32F_B827_98F3_41D6_CCEC05BA9FCF.label = IMG_20220916_163509_00_merged-denoise-denoise
+panorama_B264D6A9_B825_B9FF_41D3_27850A1C8E85.label = IMG_20220916_145311_00_merged-denoise-denoise
+panorama_B265031A_B827_98DD_41DF_F865FF45BC68.label = IMG_20231107_064040_00_merged-denoise-denoise
+panorama_B265141F_B827_98D3_41C0_A15D6B7CC8DB.label = IMG_20231107_062620_00_merged-denoise-denoise
+panorama_B26519CB_B827_EBB3_41B2_CED6F80ED31D.label = IMG_20231107_062441_00_merged-denoise-denoise
+panorama_B2653661_B827_B96F_41E1_FFB0D6DC89E5.label = IMG_20220916_163317_00_merged-denoise-denoise
+panorama_B2654CCE_B824_A9B5_41E0_AEDA5F03E6C9.label = IMG_20231107_082133_00_merged-denoise-denoise
+panorama_B2656F49_B827_E8BC_41CE_7B2E77FA7CC3.label = IMG_20231107_062202_00_merged-denoise-denoise
+panorama_B265720F_B824_98B3_41DD_8DD5E28F3494.label = IMG_20231107_064615_00_merged-denoise-denoise
+panorama_B2657EC4_B827_A9B4_41D1_7661E4A1CC50.label = IMG_20231107_062959_00_merged-denoise-denoise
+panorama_B265AD24_B824_68F4_41D7_C6304F439E04.label = IMG_20231107_064248_00_merged-denoise-denoise
+panorama_B265C904_B827_A8B5_41E3_E4016BA05C4B.label = IMG_20231107_063106_00_merged-denoise-denoise
+panorama_B265D7B8_B824_67DE_41DF_32B4514C2F83.label = IMG_20231107_064429_00_merged-denoise-denoise
+panorama_B2672D98_B824_6BDD_41E4_DFFB9294C2AC.label = IMG_20220916_163010_00_merged-denoise-denoise
+panorama_B26747C5_B824_67B7_41C6_552139A9E3CA.label = IMG_20220916_162701_00_merged-denoise-denoise
+panorama_B267583F_B825_A8D3_41E1_A9D4D134CC7A.label = IMG_20220916_152221_00_merged-denoise-denoise
+panorama_B267738E_B824_7FB4_41E6_89FF324B91BD.label = IMG_20220916_162904_00_merged-denoise-denoise
+panorama_B26795BF_B824_9BD3_41AB_7F65AF1A8C4B.label = IMG_20220916_162155_00_merged-denoise-denoise
+panorama_B267C9E2_B824_EB6D_41E0_001E64CF7F52.label = IMG_20220916_162102_00_merged-denoise-denoise
+panorama_B267DDDE_B824_AB54_41D6_A104F0B4B208.label = IMG_20220916_161239_00_merged-denoise-denoise
+panorama_B267E422_B824_98ED_41E3_70CE6648B0B8.label = IMG_20220916_161601_00_merged-denoise-denoise
+panorama_B267FEBA_B824_E9DD_41E1_9A49D08CFD33.label = IMG_20220916_161628_00_merged-denoise-denoise
+panorama_B46BA331_B81B_B8EF_41E4_BA8AAEF5660C.label = IMG_20231107_091806_00_merged-denoise-denoise
+panorama_B4F7C7A0_B824_67ED_41DC_E19D230A4382.label = Fotos teste oficial
+panorama_F8353697_BB09_BDEE_41C4_908C0E805561.label = dji_fly_20231107_084100_199_1699637768787_pano_optimized
+video_D0D20EAD_C0D6_511C_41D5_91EF4537B106.label = Video aéreo hotel
+video_F0B5D150_BB06_B762_41E3_4AF20B3746AF.label = Tulipin ofc 
+video_F30A7A8F_BB1B_95FE_41C1_7A4D1E9EF9C8.label = Tulipin 
+video_FC76C39F_BB06_9B1E_41C3_745FBC07A060.label = Tulipin 
+video_FD98D275_BB0A_7522_41B6_761C9A970807.label = IMG_7113
 
 ## Action
 
 ### URL
-LinkBehaviour_8604129B_C325_AD2E_41B4_79784C5A6BBC.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
-LinkBehaviour_8604229B_C325_AD2E_41E2_AC9221863F32.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
-LinkBehaviour_861802F6_C325_B2E6_41D5_74F75CA5C372.source = tel:3137755360
-LinkBehaviour_861FD2F5_C325_B2FA_41E4_F12F1B94BAE4.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
-LinkBehaviour_F2211773_C325_93FE_41C4_F4A59ECD6B88.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
-LinkBehaviour_F3332A3B_C325_9D6E_41B7_7F827F648563.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
-LinkBehaviour_F50FC7F1_C3E5_92FB_41D3_C638CB978532.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
-LinkBehaviour_FBDDC469_C3E2_95EB_41E6_081345EECFE4.source = tel:3137755360
+LinkBehaviour_8C9182CA_BAFA_B566_41B4_948E857247D2.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
+LinkBehaviour_8EB5A32E_BAFE_9B3E_41E3_6EFB9196B1FC.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
+LinkBehaviour_FAC8EA03_BB06_94E6_4193_7000757ED92C.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
+LinkBehaviour_FACD49FD_BB06_9722_41DB_115CE754A264.source = https://api.whatsapp.com/send?phone=553137755360&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20360%C2%BA%20e%20gostaria%20de%20fazer%20minha%20reserva.
+PopupWebFrameBehaviour_8922682F_BAFB_953E_41E5_B28A854E2E27.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15046.375523202221!2d-44.268889!3d-19.473069!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa64ff9bb94073d%3A0x12aeb71fe5a340a2!2sTulip%20Inn%20Sete%20Lagoas!5e0!3m2!1spt-BR!2sus!4v1699630857829!5m2!1spt-BR!2sus
+PopupWebFrameBehaviour_909641A8_B93B_B722_41E2_C4FE5A446C61.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15046.375523202221!2d-44.268889!3d-19.473069!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa64ff9bb94073d%3A0x12aeb71fe5a340a2!2sTulip%20Inn%20Sete%20Lagoas!5e0!3m2!1spt-BR!2sus!4v1699630857829!5m2!1spt-BR!2sus
+PopupWebFrameBehaviour_FAC9CA07_BB06_94EE_41B3_3E6831CEC564.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15046.375523202221!2d-44.268889!3d-19.473069!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa64ff9bb94073d%3A0x12aeb71fe5a340a2!2sTulip%20Inn%20Sete%20Lagoas!5e0!3m2!1spt-BR!2sus!4v1699630857829!5m2!1spt-BR!2sus
+PopupWebFrameBehaviour_FACADA05_BB06_94E2_41D4_28CF268A8204.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15046.375523202221!2d-44.268889!3d-19.473069!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa64ff9bb94073d%3A0x12aeb71fe5a340a2!2sTulip%20Inn%20Sete%20Lagoas!5e0!3m2!1spt-BR!2sus!4v1699630857829!5m2!1spt-BR!2sus
